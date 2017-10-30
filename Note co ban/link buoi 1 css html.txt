@@ -1,0 +1,26 @@
+css: https://www.w3schools.com/css/
+
+css: thuoc tinh: https://www.w3schools.com/css/css_inline-block.asp
+css list: https://www.w3schools.com/css/css_list.asp      			 
+border style: https://www.w3schools.com/cssref/pr_border-style.asp              
+
+css child: https://www.w3schools.com/cssref/sel_nth-child.asp
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_nth-child_formula   	3n
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_nth-child             	n + 4
+
+thuoc tinh transform cua X, Y -50:
+ http://webfaver.com/client-side/css/css-canh-giua-theo-ca-chieu-ngang-va-doc-trong-css.html
+
+css table: https://www.w3schools.com/css/css_table.asp
+
+3 trang miennam lam: 
+http://hfclott.com/
+http://vietlott.vn/vi/
+http://canthoford.biz/
+
+
+task bar: https://www.w3schools.com/css/css_navbar.asp
+task bar thach pham: https://thachpham.com/web-development/html-css/ky-thuat-tao-menu-ngang-css.html
+https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_navbar
+
+tag (bo chon css co ban + VS - luan dua): http://hocwebchuan.com/reference/cssSection/
